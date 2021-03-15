@@ -12,8 +12,16 @@ public class Ex3 {
 //		System.out.print("철수의 Java 과목 학점 : ");
 //		System.out.println('A');
 		
-		System.out.println("오늘의 기온 : "+ -5.3 + "");
-		System.out.println("커피 가격: " + 1500);
-		System.out.println("철수의 Java 과목 학점 : " + 'A');
+//		System.out.println("오늘의 기온 : "+ -5.3 + "");
+//		System.out.println("커피 가격: " + 1500);
+//		System.out.println("철수의 Java 과목 학점 : " + 'A');
+		
+		char value;
+		
+		int number;
+		
+		double data;
+		
+		boolean val1;
 	}
 }
