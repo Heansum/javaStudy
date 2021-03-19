@@ -3,7 +3,7 @@ package chapter4;
 public class Ex16 {
 	public static void main(String[] args) {
 		// 변수
-		int num1 = 10;
+		int num1 = 10; 
 		num1 = 20;
 		
 		// 상수 : 변하면 안되는 데이터가 있을 경우

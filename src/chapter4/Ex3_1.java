@@ -18,6 +18,8 @@ public class Ex3_1 {
 		int[] engArr = {8, 76, 26, 13};
 		int[] matArr = {86, 88, 33, 7};
 		
+		
+		
 		// 정수를 저장하기 위한 데이터 타입이 있고
 		int korScore = 51;
 		
